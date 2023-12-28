@@ -1,5 +1,6 @@
 Data Detectives: Decoding Crime Patterns with Predictive Analytics
-Overview
+
+
 This repository hosts the Data Detectives' project focused on using predictive analytics to decode crime patterns. Our aim is to provide real-time insights into crime likelihoods in specific areas, enhancing community safety.
 
 Problem Statement
